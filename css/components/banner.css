@@ -1,0 +1,30 @@
+.banner {
+    background-image: linear-gradient(90deg, rgba(0,0600,700,0.22740434064250703) 0%, rgba(200,300,100,0.557936553527661) 100%) ,url("../image/FondBDA.jpeg");
+    height: 65vh ;
+    background-size: cover;
+    background-position: center;
+    background-image: url(../../images/FondBDA.jpeg);
+
+} 
+.banner p {
+color: white;
+background-color: black;
+}
+
+.banner a {
+	color: white;
+}
+
+.banner h2 {
+	background-color: black;
+}
+.banner1 {
+	background-image:  url(../../images/black.jpg);
+	background-position: center;
+}
+.banner1 p {
+color: white;
+}
+.banner1 h2 {
+	background-color: blue;
+}

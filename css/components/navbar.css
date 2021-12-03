@@ -1,0 +1,24 @@
+.navbar {
+	position: sticky;
+	top: 0;
+	display: flex;
+	align-items: center;
+	background-color: white;
+	justify-content: space-between;
+	background-color: white;
+	padding: 0 24px;
+}
+.navbar img {
+	width: 120px;
+	height: 120px;
+}
+
+.nav_menu {
+	list-style: none;
+	display: flex;
+	padding: 0;
+}
+
+.nav_item {
+	margin: 0 16px;
+}

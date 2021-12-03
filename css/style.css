@@ -1,0 +1,31 @@
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/navbar.css");
+@import url("components/card.css");
+@import url("components/avatar.css");
+
+
+body{
+	font-size: 18px;
+	margin: 0px;
+	background-image: url(../images/black.jpg);
+    }
+
+h1  {
+  margin: 0 ;
+  color: white;
+  text-align: center;
+}
+h2{
+  color: white;
+  text-align: center;
+}
+body {
+  margin: 0;
+}
+p{
+	text-align: center;
+	margin: 50px;
+}
+
+
